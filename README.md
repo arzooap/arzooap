@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arzooap
 - 👀 I’m interested in Full Stack Development
-- 🌱 I have been working in the programming field for more than 5 years
+- 🌱 I have been working in the programming field for more than 6 years
 - 💞️ I am passionate about web standards and well-written code.
 - 📫 I will love to work on projects using following technologies :
 - PHP Laravel
